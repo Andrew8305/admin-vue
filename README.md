@@ -3,6 +3,47 @@
 
 `admin-vue` 是一个后台集成解决方案，它基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证等很多功能特性，相信不管你的需求是什么，本项目都能帮助到你。
 
+## 实例中路由说明以及功能介绍
+```
+- 登录/注销
+- 权限验证
+- 多环境发布
+- 动态侧边栏（支持多级路由）
+- 动态面包屑
+- 国际化多语言
+- 多种动态换肤
+- 快捷导航(标签页)
+- 富文本编辑器
+- Markdown编辑器
+- JSON编辑器
+- Screenfull全屏
+- 列表拖拽
+- Svg Sprite 图标
+- Dashboard
+- 引导页
+- 本地mock数据
+- Echarts 图表
+- Clipboard(剪贴复制)
+- 401/404错误页面
+- 错误日志
+- 导出excel
+- 导出zip
+- 前端可视化excel
+- 树形table
+- Table example
+- 动态table example
+- 拖拽table example
+- 内联编辑table example
+- Form example
+- 二步登录
+- SplitPane
+- 拖拽 Dialog
+- Dropzone
+- Sticky
+- CountTo
+- Markdown2html
+```
+
 **注意：该项目使用 element-ui@2.3.0+ 版本，所以最低兼容 vue@2.5.0+**
 
 ## 前序准备
@@ -57,44 +98,3 @@ npm run lint -- --fix
 ## Online Demo
 [在线 Demo](http://panjiachen.github.io/vue-element-admin)
 
-
-## 功能
-```
-- 登录/注销
-- 权限验证
-- 多环境发布
-- 动态侧边栏（支持多级路由）
-- 动态面包屑
-- 国际化多语言
-- 多种动态换肤
-- 快捷导航(标签页)
-- 富文本编辑器
-- Markdown编辑器
-- JSON编辑器
-- Screenfull全屏
-- 列表拖拽
-- Svg Sprite 图标
-- Dashboard
-- 引导页
-- 本地mock数据
-- Echarts 图表
-- Clipboard(剪贴复制)
-- 401/404错误页面
-- 错误日志
-- 导出excel
-- 导出zip
-- 前端可视化excel
-- 树形table
-- Table example
-- 动态table example
-- 拖拽table example
-- 内联编辑table example
-- Form example
-- 二步登录
-- SplitPane
-- 拖拽 Dialog
-- Dropzone
-- Sticky
-- CountTo
-- Markdown2html
-```
