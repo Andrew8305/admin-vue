@@ -10,7 +10,7 @@
    
    `src - api` 是ajax请求的放置位置。
    
-   `src - views` 是网站的视图存，依赖compents中的组件。
+   `src - views` 是网站的视图层，依赖compents中的组件。
    
    基本的增删改查参考 src - views - table - complexTable.vue文件。 
 ## 实例中路由说明以及功能介绍
