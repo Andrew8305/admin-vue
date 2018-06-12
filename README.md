@@ -3,6 +3,13 @@
 
 `admin-vue` 是一个后台集成解决方案，它基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证等很多功能特性，相信不管你的需求是什么，本项目都能帮助到你。
 
+## Demo介绍
+   `static` 是静态资源文件的摆放处，例如：一些css文件，图片之类的。
+   `src - components` 是公共组件库。
+   `src - api` 是ajax请求的放置位置。
+   `src - views` 是网站的视图存，依赖compents中的组件。
+   
+   基本的增删改查参考 src - views - table - complexTable.vue文件。 
 ## 实例中路由说明以及功能介绍
 ```
 - 登录/注销
