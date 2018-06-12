@@ -5,8 +5,11 @@
 
 ## Demo介绍
    `static` 是静态资源文件的摆放处，例如：一些css文件，图片之类的。
+   
    `src - components` 是公共组件库。
+   
    `src - api` 是ajax请求的放置位置。
+   
    `src - views` 是网站的视图存，依赖compents中的组件。
    
    基本的增删改查参考 src - views - table - complexTable.vue文件。 
