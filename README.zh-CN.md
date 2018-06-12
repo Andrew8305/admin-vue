@@ -17,7 +17,7 @@
 ## 开发
 ```bash
 # 克隆项目
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/Liangzi-Tech/admin-vue.git
 
 # 安装依赖
 npm install
